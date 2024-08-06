@@ -8,5 +8,5 @@ Website: TBD
 TBD
 
 # Important security requirement
-Please **DO NOT store any passwords and access keys** to this repository. All passwords and keys should be provided separately, uploaded as file with environment variables.
+Please **DO NOT store any passwords and access keys** to this repository. All passwords and keys should be provided separately, uploaded via SSH/SFTP as file with environment variables.
 If any password or key will be pushed/exposed to any brunch of this repository, it must be changed/replaced/revoked immediately!
