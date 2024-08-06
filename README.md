@@ -3,6 +3,10 @@ Monitoring tools for DeFi positions in Ethereum to lower risks and prevent liqui
 
 Website: TBD
 
+# MVP goals
+
+TBD
+
 # Development plan
 
 TBD
